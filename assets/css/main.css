@@ -16,7 +16,11 @@ body {
 
 .topnav {
     background-color: #7289da;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
+    text-align: center;
 }
 
 .topnav a {
