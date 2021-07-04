@@ -57,9 +57,3 @@ a {
     color: red;
     font-weight: bold;
 }
-
-.discord-widget {
-    position: absolute;
-    bottom: 0%;
-    right: 0%;
-}
