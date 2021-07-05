@@ -1,0 +1,36 @@
+body {
+    background-color: #424549;
+    font-family: 'Lato', sans-serif;
+}
+
+.topnav {
+    background-color: #7289da;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    text-align: center;
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+.topnav a:hover {
+    background-color: #424549;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
