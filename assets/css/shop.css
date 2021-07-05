@@ -1,0 +1,15 @@
+.header-text {
+    text-align: center;
+    color: white;
+}
+
+.WIP-text {
+    text-align: center;
+    color: #ff4242;
+    text-decoration: solid;
+}
+
+.WIP-text a {
+    text-decoration: underline;
+    color: #ff4242;
+}
