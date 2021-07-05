@@ -17,12 +17,12 @@ body {
 /* Main styling begins here */
 
 body {
-    background-color: #424549;
+    background-color: black;
     font-family: 'Lato', sans-serif;
 }
 
 .topnav {
-    background-color: #189ad3;
+    background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,7 +32,6 @@ body {
 
 .topnav a {
     float: left;
-    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -45,7 +44,7 @@ body {
 }
 
 .topnav a:hover {
-    background-color: #424549;
+    background-color: black;
     color: white;
 }
 
@@ -54,5 +53,6 @@ a {
 }
 
 .nav-active {
-    background-color: #424549;
+    background-color: black;
+    color: white;
 }
