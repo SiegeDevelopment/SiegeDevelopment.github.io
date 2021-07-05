@@ -1,16 +1,20 @@
-.header-text {
-    text-align: center;
+.listing {
     color: white;
+    text-align: center;
 }
 
-.ap-listing-img {
+.listing-img-div {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.ap-listing-link a, h3{
-    color: white;
+.extended-desc {
     text-align: center;
+    color: white;
+}
+
+.extended-desc a {
+    color: white;
     text-decoration: underline;
 }
