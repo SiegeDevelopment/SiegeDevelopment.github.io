@@ -16,13 +16,13 @@ body {
 
 
 .WIP-text {
-    color: #ff4242;
+    color: white;
     text-decoration: solid;
     text-align: center;
 }
 
 .WIP-text a {
     text-decoration: underline;
-    color: #ff4242;
+    color: white;
     font-weight: bold;
 }

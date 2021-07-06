@@ -19,9 +19,11 @@ body {
 body {
     background-color: black;
     font-family: 'Lato', sans-serif;
+    /* background-image: url(https://i.iodine.gg/6ah3e.png); Maybe add back? yeah probably not... */
 }
 
 .topnav {
+    padding-top: 0px;
     background-color: white;
     display: flex;
     justify-content: center;
