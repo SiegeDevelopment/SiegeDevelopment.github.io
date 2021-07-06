@@ -14,15 +14,12 @@ body {
     margin-right: auto;
 }
 
-
-.WIP-text {
+.scope {
     color: white;
-    text-decoration: solid;
     text-align: center;
 }
 
-.WIP-text a {
+.scope a {
     text-decoration: underline;
     color: white;
-    font-weight: bold;
 }
