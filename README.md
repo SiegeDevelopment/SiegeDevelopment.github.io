@@ -1,4 +1,4 @@
-# [SiegeMods Website](https://siegemods.com)
+# [SiegeMods Website](https://notsiege.dev)
 
 Welcome to the source code for the SiegeMods website!
 

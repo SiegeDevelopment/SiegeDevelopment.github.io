@@ -24,7 +24,7 @@ body {
 
 .topnav {
     padding-top: 0px;
-    background-color: white;
+    background-color: red;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,9 +36,9 @@ body {
     float: left;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
+    text-decoration: solid;
     color: black;
-    background-color: white;
+    background-color: red;
     font-size: 17px;
     -o-transition:.5s;
     -ms-transition:.5s;
